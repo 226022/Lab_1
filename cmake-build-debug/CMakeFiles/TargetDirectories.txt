@@ -1,0 +1,3 @@
+C:/Users/przem/Desktop/Studia Informatyka/st_n_2022_2023/sem_1/Prog_Uzytk/Lab_1/cmake-build-debug/CMakeFiles/Lab_1.dir
+C:/Users/przem/Desktop/Studia Informatyka/st_n_2022_2023/sem_1/Prog_Uzytk/Lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/przem/Desktop/Studia Informatyka/st_n_2022_2023/sem_1/Prog_Uzytk/Lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
